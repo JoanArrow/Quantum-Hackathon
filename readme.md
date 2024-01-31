@@ -1,5 +1,6 @@
 # Welcome to the Q-SEnSE Hackethon!
-### Follow the following instructions to learn how you can participate in this hackathon and submit solutions to our challenges &#11088
+
+### Follow these instructions to learn how you can participate in this hackathon and submit solutions to our challenges
 
 ##### 1. All challenges are contained on this repo as jupiter notebooks. Your first step in participating in this hackathon is to fork this repo to make your own copy of all challenges.
 
@@ -11,4 +12,4 @@
 
 ##### 5. Solutions will be judged by someone representing the sponsor that submitted the challenge. A submission will be ranked by the quality of the code which endeavors to solve the challenge and the time that it was submitted (with two equivalent submissions being distinguished by which was submitted first).
     
-## Many thanks to Nvidia and Infleqtion for sponsoring this amazing event &#11088
+## Many thanks to Nvidia and Infleqtion for sponsoring this amazing event
