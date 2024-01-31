@@ -12,4 +12,4 @@
 
 ##### 5. Solutions will be judged by someone representing the sponsor that submitted the challenge. A submission will be ranked by the quality of the code which endeavors to solve the challenge and the time that it was submitted (with two equivalent submissions being distinguished by which was submitted first).
     
-## Many thanks to Nvidia and Infleqtion for sponsoring this amazing event
+## Many thanks to Nvidia and Infleqtion for sponsoring this amazing event!
