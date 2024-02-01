@@ -26,6 +26,6 @@ vscode-setup tunnel --name <UNIQUE-NAME-HERE> --accept-server-license-terms
 
 Select `Github Account` and follow instructions to authenticate
 
-Click the link (format: https://vscode.dev/tunnel/<your-server-name-here>) to open VSCode in your browser. Select `Github` again.
+Click the link (format: <https://vscode.dev/tunnel/<your-server-name-here>>) to open VSCode in your browser. Select `Github` again.
 
 Congrats! You are now logged into your VS Code Server and can begin hacking! Make sure to save that url somewhere so you can access it again later!
